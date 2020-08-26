@@ -6,6 +6,7 @@
 
 ## Participants
 
-- Student Name 1
-- Student Name 2
+- Aftab Ansari
+- Syed Rehan Ali
+- Taabish Shaikh
 - Sana Mansoori
