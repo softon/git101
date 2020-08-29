@@ -10,3 +10,4 @@
 - Syed Rehan Ali
 - Taabish Shaikh
 - Sana Mansoori
+- Riddhi Sharma
