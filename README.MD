@@ -12,3 +12,4 @@
 - Sana Mansoori
 - Riddhi Sharma
 - Aakanksha Pawar
+- Hrushikesh Mahesh Sawant
